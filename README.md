@@ -1,7 +1,5 @@
 # RailsFullCal
 
-TODO: Write a gem description
-
 ## Installation
 
 Add this line to your application's Gemfile:
@@ -18,7 +16,13 @@ Or install it yourself as:
 
 ## Usage
 
-TODO: Write usage instructions here
+  Add the following to application.js
+
+    //= require fullcalendar
+
+  and the following to application.css
+
+    *= require fullcalendar
 
 ## Contributing
 
