@@ -1,5 +1,9 @@
 # RailsFullCal
 
+Simple gem that includes assets needed to use the jQuery FullCalendar plugin by Adam Shaw:
+
+http://arshaw.com/fullcalendar/
+
 ## Installation
 
 Add this line to your application's Gemfile:
@@ -23,6 +27,10 @@ Or install it yourself as:
   and the following to application.css
 
     *= require fullcalendar
+
+## Versions
+
+  Currently using Full Calendar 1.5.4
 
 ## Contributing
 
